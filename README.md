@@ -4,9 +4,9 @@
 
 This application prints "Hello World" to the console
 
-**First Borad used** :  Cicecrone board by Move-X
+**First Board used** :  Cicecrone board by Move-X
 
-**Second Borad used** : Original MAMWLExx board (powered by battery/solar panel)
+**Second Board used** : Original MAMWLExx board (powered by battery/solar panel)
 
 ## Programming
 Pyocd doesn't work.
