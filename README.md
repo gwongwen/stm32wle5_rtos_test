@@ -1,4 +1,4 @@
-# Simple Test for my Own MAMWLExx (based on STM32WlEx) Board
+# Simple Test for my Own MAMWLExx (based on STM32WLEx) Board
 
 ## Overview
 
