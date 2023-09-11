@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application prints "Hello World" to the console
+This application prints "Hello World" to the console.
 
 **First Board used** :  Cicecrone board by Move-X
 
