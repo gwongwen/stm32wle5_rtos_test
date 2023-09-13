@@ -6,7 +6,7 @@
  */
 
 #include <zephyr/kernel.h>
-#include <stdio.h>
+#include <zephyr/sys/printk.h>
 
 int main(void)
 {
