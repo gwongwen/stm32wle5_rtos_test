@@ -18,6 +18,4 @@ west build -t pristine
 
 west build -p always -b stm32wl_dw1000_iot_board applications/stm32wle5_rtos_test
 
-west flash --runner stm32cubeprogrammer or
-
-west flash --runner openocd
+west flash --runner stm32cubeprogrammer
