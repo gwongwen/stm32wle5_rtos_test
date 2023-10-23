@@ -1,7 +1,7 @@
 # Code for 6sens Omnitilt Project : simple "Hello World!" test for my Own MAMWLExx (based on STM32WLEx) Board
 
 ## Overview
-This application prints "Hello World" to the console and allows us that the device tree board file is correct.
+This application prints "Hello World" to the console and allows us that the device tree board file is correct. The version of Zephyr RTOS used is the version v3.4.0.
 
 **First Board used** :  Cicecrone board by Move-X
 
