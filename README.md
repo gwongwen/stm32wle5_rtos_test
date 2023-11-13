@@ -3,6 +3,8 @@
 ## Overview
 This application prints "Hello World" to the console and allows us that the device tree board file is correct. The version of Zephyr RTOS used is the version v3.4.0.
 
+For Zephyr documentation, please click on this link: https://docs.zephyrproject.org/3.4.0/
+
 **First Board used** :  Cicecrone board by Move-X
 
 **Second Board used** : Original MAMWLExx board, powered by battery/solar panel. (see 6sens_omnitilt repository/hardware part, for more information)
