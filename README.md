@@ -5,7 +5,7 @@ This application prints "Hello World" to the console and allows us that the devi
 
 For Zephyr documentation, please click on this link: https://docs.zephyrproject.org/3.4.0/
 
-**First Board used** :  Cicecrone board by Move-X
+**First Board used** :  Cicerone board by Move-X 
 
 **Second Board used** : Original MAMWLExx board, powered by battery/solar panel. (see 6sens_omnitilt repository/hardware part, for more information)
 
