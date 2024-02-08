@@ -8,7 +8,7 @@
 #include <zephyr/kernel.h>
 #include <zephyr/device.h>
 
-int main(void)
+int8_t main(void)
 {
 	printk("Hello World! %s\n", CONFIG_BOARD);
 	return 0;
