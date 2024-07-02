@@ -7,7 +7,7 @@ For Zephyr documentation, please click on this link: https://docs.zephyrproject.
 
 **First Board used** :  Cicerone board by Move-X 
 
-**Second Board used** : Original MAMWLExx board, powered by battery/solar panel. (see 6sens_omnitilt repository/hardware part, for more information)
+**Second Board used** : Original MAMWLExx board, powered by battery/solar panel. (see 6sens_project repository/hardware part, for more information.)
 
 ## Building and Running
 Pyocd doesn't work. I had to install stm32programmer to implement the existing code.
